@@ -46,7 +46,7 @@ p {
 }
 
 .heading { 
-    font-family: 'times new roman', sans-serif;
+    font-family: 'Roboto', sans-serif;
 	font-size: calc( 16px + (30 - 16) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
     font-weight: 50;
@@ -64,7 +64,7 @@ p {
 
 
 .headinglink { 
-    font-family: 'times new roman', sans-serif;
+    font-family: 'Roboto', sans-serif;
 	font-size: calc( 36px + (60 - 36) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
     font-weight: 500;
@@ -90,7 +90,7 @@ p {
 .title { 
 	width: 100%;
 	max-width: 800px;
-    font-family: 'times new roman', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: calc( 18px + (26 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.08rem;
     font-weight: 300;
@@ -106,7 +106,7 @@ p {
 .bodytext {
 	width: 100%;
 	max-width: 800px;
-    font-family: 'times new roman', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: calc( 12px + (18 - 12) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.08rem;
     font-weight: 500;
@@ -172,7 +172,7 @@ p {
 	max-width: 800px;
 	align-content: center;
 	overflow: break-word;
-	font-family: 'Times', sans-serif;
+	font-family: 'Roboto', sans-serif;
 		font-size: calc( 8px + (15 - 8) * (100vw - 450px) / (1000 - 450) );
 		font-weight: 500;
 		text-align: left;
@@ -198,7 +198,7 @@ p {
 
 .Textindent {
     text-indent: 50px;
-    font-family: 'Times', sans-serif;
+    font-family: 'Roboto', sans-serif;
 		font-size: calc( 18px + (22 - 18) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0 rem;
     font-weight: 500;
@@ -235,15 +235,15 @@ p {
 
 /* External Links */
 .class3 {color: #000; 
-		font-family: 'Padauk', sans-serif;
+		font-family: 'Roboto', sans-serif;
 		font-size: 0.7rem;
 		font-weight: 500;
 
 		}
-.class3:link  {text-decoration: none; color: #ff914c;}
-.class3:visited {text-decoration: none; color: #ff914c;}
+.class3:link  {text-decoration: none; color: #000;}
+.class3:visited {text-decoration: none; color: #000;}
 .class3:hover {text-decoration: none; color: #ff914c; transition: 0.2s; cursor: pointer;}
-.class3:active {text-decoration: none; color: #ff914c;}
+.class3:active {text-decoration: none; color: #000;}
 
 
 
