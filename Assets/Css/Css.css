@@ -234,16 +234,16 @@ p {
 .class2:active {text-decoration: none; color: #D6D6D6;}
 
 /* External Links */
-.class3 {color: #D6D6D6; 
+.class3 {color: #000; 
 		font-family: 'Padauk', sans-serif;
 		font-size: 0.7rem;
 		font-weight: 500;
 
 		}
-.class3:link  {text-decoration: none; color: #D6D6D6;}
-.class3:visited {text-decoration: none; color: #D6D6D6;}
-.class3:hover {text-decoration: none; color: #000; transition: 0.2s; cursor: pointer;}
-.class3:active {text-decoration: none; color: #D6D6D6;}
+.class3:link  {text-decoration: none; color: #ff914c;}
+.class3:visited {text-decoration: none; color: #ff914c;}
+.class3:hover {text-decoration: none; color: #ff914c; transition: 0.2s; cursor: pointer;}
+.class3:active {text-decoration: none; color: #ff914c;}
 
 
 
