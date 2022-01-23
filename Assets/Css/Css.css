@@ -64,7 +64,7 @@ p {
 
 
 .headinglink { 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'times new roman', sans-serif;
 	font-size: calc( 36px + (60 - 36) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
     font-weight: 500;
