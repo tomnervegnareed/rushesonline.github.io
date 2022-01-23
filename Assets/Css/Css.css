@@ -170,14 +170,18 @@ p {
 .curatortext {
 	width: 100%;
 	max-width: 800px;
-	align-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: calc( 12px + (18 - 12) * (100vw - 450px) / (1000 - 450) );
+    letter-spacing: 0.08rem;
+    font-weight: 500;
+   	padding: 0;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 2vw;
+	padding-right: 2vw;
+	align-content: left;
+	text-align: left;
 	overflow: break-word;
-	font-family: 'Roboto', sans-serif;
-		font-size: calc( 8px + (15 - 8) * (100vw - 450px) / (1000 - 450) );
-		font-weight: 500;
-		text-align: left;
-	padding: 0;
-	color: #d2d2d2;
 
 }
 
@@ -235,10 +239,20 @@ p {
 
 /* External Links */
 .class3 {color: #000; 
-		font-family: 'Roboto', sans-serif;
-		font-size: 0.7rem;
-		font-weight: 300;
-
+		width: 100%;
+	max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-size: calc( 12px + (18 - 12) * (100vw - 450px) / (1000 - 450) );
+    letter-spacing: 0.08rem;
+    font-weight: 500;
+   	padding: 0;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 2vw;
+	padding-right: 2vw;
+	align-content: left;
+	text-align: left;
+	overflow: break-word;
 		}
 .class3:link  {text-decoration: none; color: #000;}
 .class3:visited {text-decoration: none; color: #000;}
